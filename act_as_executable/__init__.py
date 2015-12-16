@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'Jorge Niedbalski R. <jnr@pyrosome.org>'
+__author__ = 'Jorge Niedbalski R. <jnr@metaklass.org>'
 
 from string import Template
 import envoy
